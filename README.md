@@ -7,7 +7,7 @@ This repo is about learning the basic process in speech's field by practicing cr
 The dataset used in training ASR model is the __VIVOS Corpus__. You can download the dataset from [here](https://ailab.hcmus.edu.vn/vivos).
 
 ## Model
-Here is a DeepSpeech2 model trained on VIVOS with the batch size of 8 and epochs of 200, which reached 0.4390 WER on VIVOS test set. You can download the model in here: [link](https://drive.google.com/file/d/1Ywa70m728XKSSkfs7Lbcg10-6i92k1yp/view?usp=sharing)
+Here is a DeepSpeech2 model trained on VIVOS with the batch size of 8 and epochs of 200, which reached 0.4390 WER on VIVOS test set. You can download the model in [link](https://drive.google.com/file/d/1Ywa70m728XKSSkfs7Lbcg10-6i92k1yp/view?usp=sharing)
 
 
 ## Instruction
